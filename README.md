@@ -14,7 +14,7 @@ A sleek, interactive stock analysis dashboard built with Streamlit and powered b
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](path/to/screenshot.png) <!-- Optional: Add after deployment -->
+![Dashboard Screenshot](dashboard.png) <!-- Optional: Add after deployment -->
 
 ## 🛠️ Tech Stack
 
