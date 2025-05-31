@@ -27,7 +27,7 @@ A sleek, interactive stock analysis dashboard built with Streamlit and powered b
 ## 💡 How to Run Locally
 
 ```bash
-git clone git@gitlab.cs.man.ac.uk:n85753am/financial-dashboard.git
+git clone https://github.com/aaronmalhi/financial-dashboard.git
 cd financial-dashboard
 pip install -r requirements.txt
 streamlit run app.py
